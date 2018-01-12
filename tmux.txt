@@ -1,0 +1,36 @@
+------------------TMUX--------------------
+
+Benifits of tmux over terminator
+
+no need of gui
+
+tmux will keeps pane alive from server eventhough if we quit terminal accidentaly
+
+use tmuxcheatsheet.com
+
+
+
+prefix = contorl key + b
+
+let abbrevate pf as prefix for the following study notes
+
+pf+% = vertical
+pf+" = hori
+pf+<>^ = moving diffrent pane in the same window
+pf+x = quit or do exit in each pane to quit
+pf+d = detach
+pf+? = toget all commands
+pf+c= new window
+pf+n = moving to next window
+pf+p = moving to previous window
+pf+, = to rename
+tmux ls = listing all windows
+
+
+Adjusting pane size : holding prefix and use arrow keys to adjust the size of pane
+
+
+
+
+
+
