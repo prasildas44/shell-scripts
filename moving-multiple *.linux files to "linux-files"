@@ -1,0 +1,4 @@
+#! /bin/bash
+
+
+mv *linux  /home/prasil/rename/feb/linux-files
