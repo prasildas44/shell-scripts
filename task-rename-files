@@ -1,9 +1,10 @@
-for i in $( ls)
+#! /bin/bash
+
+
+for i in *.c
 
 do
 
-  echo "$i"
-
-  $(tr A-Z a-z)
+echo $i | tr "[A-Z]" "[a-z]"
 
 done
